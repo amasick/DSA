@@ -51,4 +51,16 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/amasick/DSA/tree/master/1510-stone-game-iv) |
+## Array
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amasick/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amasick/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amasick/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
