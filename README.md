@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/amasick/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/amasick/DSA/tree/master/1872-stone-game-viii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amasick/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amasick/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amasick/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -33,14 +34,17 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/amasick/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/amasick/DSA/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/amasick/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/amasick/DSA/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/amasick/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/amasick/DSA/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
@@ -53,10 +57,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/amasick/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/amasick/DSA/tree/master/1872-stone-game-viii) |
 ## Array
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/amasick/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/amasick/DSA/tree/master/1872-stone-game-viii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amasick/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amasick/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amasick/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -84,4 +90,8 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amasick/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/amasick/DSA/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
