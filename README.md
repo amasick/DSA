@@ -13,10 +13,12 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amasick/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/amasick/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amasick/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/amasick/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/amasick/DSA/tree/master/1872-stone-game-viii) |
+## Two Pointers
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/amasick/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
