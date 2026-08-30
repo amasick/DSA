@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/amasick/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/amasick/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amasick/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -65,6 +66,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/amasick/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/amasick/DSA/tree/master/1872-stone-game-viii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/amasick/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amasick/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amasick/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amasick/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
