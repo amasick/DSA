@@ -1,37 +1,35 @@
 class Solution {
 public:
-    bool uniformArray(vector<int>& nums1) {
+    bool uniformArray(vector<int>& nums) {
+        int n=nums.size();
+        // if all are odd or even then pass
+          int minO=INT_MAX;
+        int minE=INT_MAX;
 
-       int n=nums1.size();
-       int minEven=INT_MAX;
-       int minOdd=INT_MAX;
+        bool allO=true;
+        bool allE=true;
+        for(auto ele:nums){
+           
+            if(ele%2==0){
+                minE=min(minE,ele);
+                
+                allO=false;
+            }
+            else {
+                 minO=min(minO,ele);
+                
+                allE=false;
 
-       bool allEven=true;
-       bool allOdd=true;
-       bool convToOdd=true;
+            }
+        }
+        bool convO=true;
+        bool convE=true;
+        if(!allO and !allE)convE=false;
+        if(minE<minO)convO=false;
 
-       for(int i=0;i<n;i++){
-       
+        return allE||allO || convO || convE;
       
-        if(nums1[i]%2==0)
-        {
-             minEven=min(minEven,nums1[i]);
-            allOdd=false;
-        }
-        else 
-        {
-              minOdd=min(minOdd,nums1[i]);
-            allEven=false;
-        }
-       }
-       
-       //convert to even not poosible if there's exist a odd
-
-       //convert to odd if minimum even is greater than minimum odd;
-
-       if(minOdd!=INT_MAX and minEven!=INT_MAX and minOdd>minEven)convToOdd=false;
-       return convToOdd || allEven || allOdd;
-
+        
     }
 };
 
