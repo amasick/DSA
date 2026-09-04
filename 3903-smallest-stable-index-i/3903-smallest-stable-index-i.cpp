@@ -30,8 +30,7 @@ public:
         }
        
 
-        if(ans!=n)return ans;
-        else return -1;
+        return ans!=n?ans:-1;
 
 
         
